@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Welcome to my personal website!
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This website provides a brief introduction about who I am.
+
+In building this website, I used a boostrap template from the
+following url: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/. 
